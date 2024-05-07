@@ -1,0 +1,6 @@
+<INI>
+1. Obtener consumos de utilities por turnos ('Gas natural','Electricidad','Agua','Vapor','Aire')
+2. Obtener volumens de producción por canales ('Molienda Húmeda','Molienda Seca','Refinería Aceite','Refinería Glucosa','Almidones')
+3. Cálculo consumo de energía kcal/kg por turno
+4. Cálculo consumo de agua m3/ton MH por turno
+<INI>

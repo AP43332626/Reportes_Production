@@ -1,0 +1,6 @@
+<INI>
+1. Obtener datos de parada no programada de planta 1ero, 2do y 3er turnos
+2. Obtener datos de parada programada de planta 1ero, 2do y 3er turnos
+3. Obtener volumens de producción por canales ('Molienda Húmeda','Molienda Seca','Refinería Aceite','Refinería Glucosa','Almidones')
+4. Calcula OEE por turnos, día, semana y mes
+<INI>
